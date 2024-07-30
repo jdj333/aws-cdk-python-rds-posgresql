@@ -25,8 +25,8 @@ cdk_project/
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name/cdk_project
+    git clone https://github.com/jdj333/aws-cdk-python-rds-postgresql.git
+    cd aws-cdk-python-rds-postgresql/cdk_project
     ```
 
 2. **Install dependencies:**
